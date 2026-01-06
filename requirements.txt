@@ -13,3 +13,4 @@ reportlab
 # ReportLab often relies on Pillow for image handling
 Pillow
 simple-salesforce
+gunicorn>=20.0.4
